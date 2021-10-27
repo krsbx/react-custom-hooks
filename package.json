@@ -1,5 +1,5 @@
 {
-  "name": "@krsbx/hooks",
+  "name": "krsbx-hooks",
   "version": "1.0.0",
   "description": "Simple custom hooks",
   "main": "src/index.js",
