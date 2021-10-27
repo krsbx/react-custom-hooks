@@ -10,7 +10,7 @@ import useHover from './custom-hooks/useHover';
 import useMediaQuery from './custom-hooks/useMediaQuery';
 import { useLocalStorage, useSessionStorage } from './custom-hooks/useStorage';
 import useScript from './custom-hooks/useScript';
-import useTimeout from './custom-hooks/useTimeOut';
+import useTimeout from './custom-hooks/useTimeout';
 import useToggle from './custom-hooks/useToggle';
 import useWindowDimension from './custom-hooks/useWindowDimension';
 

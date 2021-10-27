@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import useTimeout from './useTimeOut';
+import useTimeout from './useTimeout';
 import useEventListener from './useEventListener';
 
 const useClicknHold = (elementRef, callback, delay = 0.25) => {
