@@ -1,0 +1,24 @@
+{
+  "name": "@krsbx/hooks",
+  "version": "1.0.0",
+  "description": "Simple custom hooks",
+  "main": "src/index.js",
+  "keywords": [
+    "react",
+    "custom",
+    "hooks",
+    "storage",
+    "functions"
+  ],
+  "author": {
+    "name": "KRSBX"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krsbx/react-custom-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krsbx/react-custom-hooks/issues"
+  }
+}

@@ -1,2 +1,3 @@
 # react-custom-hooks
-My favorite custom hooks
+
+A simple react hooks

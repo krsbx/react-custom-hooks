@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-export const useGeolocation = (options) => {
+const useGeolocation = (options) => {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState();
   const [data, setData] = useState({});
@@ -40,3 +40,5 @@ export const useGeolocation = (options) => {
     data,
   };
 };
+
+export default useGeolocation;

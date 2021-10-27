@@ -8,7 +8,7 @@ const useEventListener = (types, callback, element = window) => {
   }, [callback]);
 
   useEffect(() => {
-    const handler = (e) => callbackRef.current(e);
+    const handler = (e) => callback && callbackRef.current(e);
 
     if (!element) return;
 
