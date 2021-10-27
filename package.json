@@ -1,6 +1,6 @@
 {
   "name": "krsbx-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple custom hooks",
   "main": "src/index.js",
   "keywords": [
