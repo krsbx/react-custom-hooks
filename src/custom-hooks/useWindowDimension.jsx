@@ -17,7 +17,7 @@ const useWindowDimension = () => {
     setValue(getWindowDimension);
   });
 
-  return [value];
+  return value;
 };
 
 export default useWindowDimension;
