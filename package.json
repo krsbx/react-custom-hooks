@@ -1,6 +1,6 @@
 {
   "name": "krsbx-hooks",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Simple custom hooks",
   "main": "src/index.js",
   "keywords": [
@@ -20,5 +20,6 @@
   },
   "bugs": {
     "url": "https://github.com/krsbx/react-custom-hooks/issues"
-  }
+  },
+  "types": "src/index.d.ts"
 }
